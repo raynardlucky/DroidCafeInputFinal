@@ -31,7 +31,7 @@ import android.widget.Toast;
  * to use an intent to launch a second activity. The app lets a user tap an
  * image to make a choice. The app displays a Toast message showing the user’s
  * choice.
- *
+ * <p>
  * This version demonstrates various input controls.
  */
 public class MainActivity extends AppCompatActivity {
@@ -87,15 +87,24 @@ public class MainActivity extends AppCompatActivity {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
+        switch (item.getItemId()) {
+            case R.id.action_order:
+                Intent intent = new Intent(MainActivity.this, OrderActivity.class);
+                intent.putExtra(EXTRA_MESSAGE, mOrderMessage);
+                startActivity(intent);
+                return true;
+            case R.id.action_status:
+                displayToast(getString(R.string.action_status_message));
+                return true;
+            case R.id.action_favorites:
+                displayToast(getString(R.string.action_favorites_message));
+                return true;
+            case R.id.action_contact:
+                displayToast(getString(R.string.action_contact_message));
+                return true;
+            default:
 
-        // This comment suppresses the Android Studio warning about simplifying
-        // the return statements.
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 
