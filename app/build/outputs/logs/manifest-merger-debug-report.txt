@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
+ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9c4c755a04bc09bc2585c01ac7995869\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8427b717a4d9a31609a65a7039a6ce7a\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\013344b7641ce297c2d1e36700dec6a8\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Raynard\.gr
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\73019cb58956035a36a25409aea1008d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\20d66b08312d4bae8b0fe222064dd56c\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3a2f29ef0ddd0b126b78a523318463b6\AndroidManifest.xml:17:1-30:12
-INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
 	package
 		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:19:5-44
 		INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml
 		INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml
-		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
+		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
 		INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml
-		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-41:12
+		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:1-46:12
 		INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:18:11-69
 application
-ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:21:5-39:19
+ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:21:5-44:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9c4c755a04bc09bc2585c01ac7995869\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9c4c755a04bc09bc2585c01ac7995869\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Raynard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8427b717a4d9a31609a65a7039a6ce7a\AndroidManifest.xml:25:5-29:19
@@ -96,9 +96,19 @@ ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManif
 	android:name
 		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:35:27-74
 activity#com.example.android.droidcafe.OrderActivity
-ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:38:9-60
+ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:parentActivityName
+		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:40:13-55
+	android:label
+		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:39:13-57
 	android:name
 		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:38:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:41:13-42:48
+	android:value
+		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:42:17-46
+	android:name
+		ADDED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml:41:24-70
 uses-sdk
 INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\KULIAH\ITHB\SEMESTER_6\PAM\DroidCafeMenu\app\src\main\AndroidManifest.xml
